@@ -3,8 +3,8 @@ Type: Package
 Title: sangeranalyseR: a suite of functions for the analysis of Sanger sequence data in R
 Version: 0.1.0
 Date: 2015-12-18
-Author: Rob Lanfear <rob.lanfear@gmail.com>
-Maintainer: Rob Lanfear <rob.lanfear@gmail.com>
+#Author: Rob Lanfear <rob.lanfear@gmail.com>
+#Maintainer: Rob Lanfear <rob.lanfear@gmail.com>
 Description: This package implements bioinformatic methods to process and make inferences from Sanger sequencing reads, particularly those sequenced with ABI machines.
 License: GPL-2
 Depends: 
